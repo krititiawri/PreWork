@@ -1,0 +1,32 @@
+wrong id was mentioned.1)img (open and close tag missing),and alt missing.
+
+2)<script type="text/javascript" src="logic.js"></script>(correct)
+  <script type="text/javascript" src="error.js.js"></script> (wrong file name for js) which was stopping all the function in the JS file.
+
+3)      Correct
+        <ol>
+     	<li>Dressing Up</li>
+	<li>Eating Grass</li>
+	<li>Sleeping</li>
+	<li>Swimming</li>
+	<li>Hiking</li>
+	</ol>
+        Wrong : li tag was not uesd It use for numbering the list items.
+
+4) Random BOO Button was not working because in the logic.js file the array declared does not contained "" for the array items.
+
+5)Button Pink was not showing the Pink color because in the logic.js file 
+        $("#textPink").on("click", function() {
+	$("#funText").css("color", "pink")// corected "pink"
+pink was not having double quotes.
+
+6) Grow and shrink button was not working because the declaration for Click does not contained double Quotes.
+$("#boxGrow").on("click", function() {
+	$("#box").animate({height:"+=35px", 
+		width:"+=35px"}, "fast");
+})
+
+$("#boxShrink").on("click", function() {
+	$("#box").animate({height:"-=35px", width:"-=35px"}, "fast");
+}) //Corret "click"
+

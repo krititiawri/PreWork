@@ -1,0 +1,141 @@
+1)Ajax:
+  1-) AJAX stands for Asynchronous JavaScript And XML.
+  2-) Communiactes with the servers. It can send and receive information in various formats, including JSON, XML, HTML, and text files.
+  3-) It has "asynchronous" nature, which means it can communicate with the server, exchange data, and update the page without having to refresh the page. 
+  4-) Receive and work with data from the server.
+  5-) It is a client side script.
+  6-) Ajax is “the method of exchanging data with a server, and updating parts of a web page – without reloading the entire page.
+  7-) Update a web page without reloading the page.
+  8-) Receive data from a server - after the page has loaded.
+  9-) Request data from a server - after the page has loaded.
+  10-) Send data to a server - in the background.
+
+2)HTML:
+  1-) HTML is the standard markup language for creating Web pages.
+  2-) HTML stands for Hyper Text Markup Language.
+  3-) HTML describes the structure of Web pages using markup.
+  4-) HTML elements are the building blocks of HTML pages
+  5-) HTML elements are represented by tags.
+  6-) HTML tags label pieces of content such as "heading", "paragraph", "table" etc.
+  7-) Browsers do not display the HTML tags, but use them to render the content of the page.
+  8-) HTML tags normally come in pairs like <p> and </p>( P-for paragraph), The first tag in a pair is the start tag, the second tag is the end tag.
+  9-) All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+  10-) The HTML document itself begins with <html> and ends with </html>.
+  11-) The visible part of the HTML document is between <body> and </body>.
+  12-) It decribes the content of web page.
+
+3)CSS:
+  1-) Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.
+  2-) CSS is a language that describes the style of an HTML document.
+  3-) CSS describes how HTML elements should be displayed.
+  4-) CSS saves a lot of work. It can control the layout of multiple web pages all at once.
+  5-) External stylesheets are stored in CSS files
+  6-) CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. 
+  7-) The style definitions are normally saved in external .css files with this you can change the style of complete webpage with changing the single file.
+  8-) There are 3 ways to insert CSS : External style sheet
+                                       Internal style sheet
+                                       Inline style
+  9-) CSS Syntax : A CSS rule-set consists of a selector and a declaration block
+     Selector     Declaration     Declaration
+      |            |                 |
+      h1        {color:  blue ;font-size-12px;}
+                  |      |           |     |
+               property  Value  property  Value
+
+  10-) SS selectors are used to "find" (or select) HTML elements based on their element name, id, class, attribute, and more.
+
+4)JavaScript:
+  1-) JavaScript is the programming language of HTML and the Web.
+  2-) JavaScript is easy to learn.
+  3-) It is not a Programming language it is an scripting Language.
+  4-) Javascript is supported by all the modern web browsers.
+  5-) It supports object-oriented programming and procedural programming.
+  6-) It can be used to control web pages on the client side of the browser, server-side programs, and even mobile applications.
+  7-) It is comonly used in cobination with HTML, CSS, and AJAX.
+  8-) HTML markup language allows web developers to format content, JavaScript allows them to make the page dynamic.
+  9-) JavaScript makes web pages more dynamic by allowing users to interact with web pages, click on elements, and change the pages.
+  10-) JavaScript is saved inside of HTML markup language.
+
+5) JQuery:
+  1-) jQuery is a JavaScript Library..
+  2-) jQuery greatly simplifies JavaScript programming.
+  3-) Before studying jQuery the basic knowlwdge of HTML,CSS and Javascript is necessary.
+  4-) jQuery is a lightweight, "write less, do more", JavaScript library.
+  5-) The purpose of jQuery is to make it much easier to use JavaScript on your website.
+  6-) jQuery wraps mutiple line of code from javascript to a method that you can call from a single line of code.
+  7-) jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+  8-) The jQuery library contains the following features:HTML/DOM manipulation
+                                                         CSS manipulation
+                                                         HTML event methods
+                                                         Effects and animations
+                                                         AJAX
+                                                         Utilities
+  9-) jQuery runs same in all major Browsers including Internet Explorer 6.
+  10-) To use jquery on your website you can : Download the jQuery library from jQuery.com
+                                               Include jQuery from a CDN, like Google
+
+6) Node.js:
+   1-) Node.js is an open source server framework.
+   2-) Node.js allows you to run JavaScript on the server.
+   3-) Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).
+   4-) Node.js uses asynchronous programming.
+   5-) Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient.
+   6-) Node.js can generate dynamic page contents.
+   7-) Node.js can create, open, read, write, delete, and close files on the server.
+   8-) Node.js can collect form data.
+   9-) Node.js can add, delete, modify data in your database
+   10-) Node.js File: Node.js files contain tasks that will be executed on certain events.
+                      Node.js files must be initiated on the server before having any effect.
+
+7) XML:
+   1-) XML stands for eXtensible Markup Language.
+   2-) XML was designed to store and transport data.
+   3-) XML was designed to be both human- and machine-readable.
+   4-) XML was designed to carry data - with focus on what data is while HTML was designed to display data.
+   5-) XML tags are not predefined like HTML tags are
+   6-) It simplifies data sharing.
+   7-) It simplifies data transport.
+   8-) It simplifies platform changes.
+   9-) It simplifies data availability.
+   10-) XML stores data in plain text format. This provides a software- and hardware-independent way of storing, transporting, and sharing data.
+
+
+
+
+
+  
+
+
+                      Node.js files have extension ".js".
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+  
+
+
+
+
+

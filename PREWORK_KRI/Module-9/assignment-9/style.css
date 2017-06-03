@@ -1,0 +1,53 @@
+
+#RED{
+	color: red;
+}
+
+#BLUE{
+	color: blue;
+}
+
+
+#GREEN{
+	color: green;
+}
+
+
+#BIG{
+	font-size:50px;
+}
+
+#TINY{
+	font-size: 50%;
+}
+
+#CENTER{
+    text-align: center;
+}
+#BOLD{
+	font-weight: bold;
+}
+#CREATIVE{
+	font-family: arial;
+}
+
+#MULTIPLE{
+	font-size: 20px;
+	color: orange;
+	font-weight: bold;
+}
+.styledFont{
+	color:green;
+}
+#styledImage{
+	border-style: solid;
+	border-color: orange;
+    border-image-width: 10px;
+
+
+	
+}
+
+
+
+
